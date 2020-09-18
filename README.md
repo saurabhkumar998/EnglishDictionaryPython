@@ -9,4 +9,4 @@ If entered wrong input, suggesting related words:
 
 
 
-Dictionary source: https://github.com/matthewreagan/WebstersEnglishDictionary/blob/master/dictionary.json
+Dictionary source: Webster's Unabridged Dictionary (https://www.gutenberg.org/ebooks/29765)
